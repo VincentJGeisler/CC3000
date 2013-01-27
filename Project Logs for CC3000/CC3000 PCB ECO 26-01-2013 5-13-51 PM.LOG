@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=SPI_DI Pin=J2-1
+Removed Pin From Net: NetName=SPI_CK Pin=J2-2
+Change Component DesignItemId : Designator=C1 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C2 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C3 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=CC3000
+Change Component DesignItemId : Designator=J1 Old DesignItemId= New DesignItemId=CON9
+Change Component DesignItemId : Designator=J2 Old DesignItemId= New DesignItemId=CON9
+Change Component DesignItemId : Designator=CN1 Old DesignItemId= New DesignItemId=MMCX_SMT
+Change Component DesignItemId : Designator=O1 Old DesignItemId= New DesignItemId=OPTION
+Change Component DesignItemId : Designator=O2 Old DesignItemId= New DesignItemId=OPTION
+Change Component DesignItemId : Designator=J4 Old DesignItemId= New DesignItemId=TP1
+Change Component DesignItemId : Designator=J5 Old DesignItemId= New DesignItemId=TP1
+Change Component DesignItemId : Designator=J6 Old DesignItemId= New DesignItemId=TP1
+Change Component DesignItemId : Designator=J7 Old DesignItemId= New DesignItemId=TP1
+Change Component DesignItemId : Designator=J8 Old DesignItemId= New DesignItemId=TP1
+Change Component Description : Designator=C1 Old Description= New Description=Capacitor
+Change Component Description : Designator=C2 Old Description= New Description=Capacitor
+Change Component Description : Designator=C3 Old Description= New Description=Capacitor
+Change Component Description : Designator=J1 Old Description= New Description=Connector
+Change Component Description : Designator=J2 Old Description= New Description=Connector
+Change Component Description : Designator=J4 Old Description= New Description=Connector
+Change Component Description : Designator=J5 Old Description= New Description=Connector
+Change Component Description : Designator=J6 Old Description= New Description=Connector
+Change Component Description : Designator=J7 Old Description= New Description=Connector
+Change Component Description : Designator=J8 Old Description= New Description=Connector
+Change Component Description : Designator=O1 Old Description= New Description=OPTION SELECTION PAD
+Change Component Description : Designator=O2 Old Description= New Description=OPTION SELECTION PAD
+Change Component Description : Designator=U1 Old Description= New Description=TI WLAN MODULE
+Added Pin To Net: NetName=SPI_CK Pin=J2-1
+Added Pin To Net: NetName=SPI_DI Pin=J2-2
+Added Room: Name=CC3000
